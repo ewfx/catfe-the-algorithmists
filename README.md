@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging. ok
+The Email Classifier App automates email categorization, extracts key details, and streamlines ticket creation using AI. It helps support teams manage high email volumes efficiently, reducing manual effort and improving response times. 🚀
 
 ## 🎥 Demo 
 
