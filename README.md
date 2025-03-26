@@ -57,3 +57,4 @@ Describe the major technical or non-technical challenges your team encountered.
 
 ## 👥 Team
 - **Siddhesh Bandgar** - [https://github.com/siddheshbandgar](#) | [https://www.linkedin.com/in/siddhesh-bandgar/](#)
+- **Ajinkya Hazare** - [github.com/hazareajinkya](#) | [https://www.linkedin.com/in/ajinkya-hazare-b59258170/](#)
