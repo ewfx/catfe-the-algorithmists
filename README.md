@@ -21,7 +21,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+!D:\Wells_Fargo\Technology Hackathon 2025\catfe-the-algorithmists\artifacts\demo\screenshots
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
