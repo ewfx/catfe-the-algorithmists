@@ -22,12 +22,12 @@ A brief overview of your project and its purpose. Mention which problem statemen
 
 🖼️ Screenshots:
 
-https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/1.png
-https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/2.png
-https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/3.png
-https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/4.png
-https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/5.png
-https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/6.png
+1. https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/1.png
+2. https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/2.png
+3. https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/3.png
+4. https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/4.png
+5. https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/5.png
+6. https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/6.png
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
