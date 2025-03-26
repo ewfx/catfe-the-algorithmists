@@ -38,7 +38,7 @@ Describe the major technical or non-technical challenges your team encountered.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/catfe-the-algorithmists.git
    ```
 2. Install dependencies  
    ```sh
@@ -46,7 +46,7 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   npm run dev  # or python app.py
    ```
 
 ## 🏗️ Tech Stack
@@ -56,5 +56,4 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Siddhesh Bandgar** - [https://github.com/siddheshbandgar](#) | [https://www.linkedin.com/in/siddhesh-bandgar/](#)
