@@ -19,9 +19,15 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
+
 🖼️ Screenshots:
 
-!D:\Wells_Fargo\Technology Hackathon 2025\catfe-the-algorithmists\artifacts\demo\screenshots
+https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/1.png
+https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/2.png
+https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/3.png
+https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/4.png
+https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/5.png
+https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/6.png
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
