@@ -16,9 +16,7 @@
 ## 🎯 Introduction
 A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging. ok
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+## 🎥 Demo 
 
 🖼️ Screenshots:
 
@@ -30,16 +28,28 @@ A brief overview of your project and its purpose. Mention which problem statemen
 6. https://github.com/ewfx/catfe-the-algorithmists/blob/main/artifacts/demo/screenshots/6.png
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+In Wells Fargo, handling large volumes of incoming emails is a time-consuming task. Support teams struggle with classifying requests, identifying duplicates, and routing them efficiently. We built this project to automate email classification using AI, reducing manual effort and improving response times.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+- **Classifies Emails**: Uses an open-source LLM to determine the request type and sub-request type.  
+- **Extracts Key Fields**: Identifies relevant details from the email content.  
+- **Confidence Score Calculation**: Generates a confidence score for classification accuracy.  
+- **Duplicate Detection**: Flags duplicate emails to avoid redundant ticket creation.  
+- **One-Click Ticket Creation**: Provides a button to raise a ticket for the relevant team.  
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+- **Frontend**: Built using React  for an interactive and user-friendly UI.  
+- **Backend**: Developed with Python (Flask) and integrates an open-source LLM for email classification.  
+- **LLM Integration**: Utilizes AI to analyze and categorize emails effectively.  
+- **Data Processing**: Implements logic to compute confidence scores and detect duplicate emails.  
+
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+- **LLM Fine-Tuning**: Ensuring accurate classification and relevant field extraction.  
+- **Seamless Integration**: Establishing smooth communication between the frontend and backend.  
+- **Duplicate Handling**: Designing a robust mechanism to detect and prevent duplicate tickets.  
+- **User Experience**: Making the interface intuitive for users to quickly classify emails and create tickets.  
+
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -48,18 +58,26 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   npm install  
    ```
 3. Run the project  
    ```sh
-   npm run dev  # or python app.py
+   npm run dev 
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+### Frontend  
+- React.js (without Tailwind)  
+- HTML, CSS, JavaScript  
+- Fetch API for backend communication  
+
+### Backend  
+- Python (Flask)  
+- Open-source LLM for email classification  
+- NLTK / spaCy for text processing  
+- SQLite / PostgreSQL (for storing classified emails)  
+ 
+
 
 ## 👥 Team
 - **Siddhesh Bandgar** - [https://github.com/siddheshbandgar](#) | [https://www.linkedin.com/in/siddhesh-bandgar/](#)
